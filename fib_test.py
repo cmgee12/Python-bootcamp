@@ -10,4 +10,4 @@ def test_fib1():
 
 def test_fib6():
     obs = fib(6)
-    assert obs == 8
+    assert obs == 13
